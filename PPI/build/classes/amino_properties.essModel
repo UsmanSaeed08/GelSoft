@@ -1,0 +1,70 @@
+[Box: ::Default - ::<<Unknown>>::javax.swing.JFrame]
+X=950
+Y=40
+
+[Box: ::Default - ::<<Unknown>>::JPanel]
+X=1346
+Y=40
+
+[Box: ::Default - ::Default::amino_properties]
+X=635
+Y=408
+
+[Box: ::Default - ::Default::Compute]
+X=1552
+Y=408
+
+[Box: ::Default - ::Default::filing]
+X=1551
+Y=40
+
+[Box: ::Default - ::Default::GraphPanel]
+X=1347
+Y=408
+
+[Box: ::Default - ::Default::home]
+X=1045
+Y=408
+
+[Box: ::Default - ::Default::Jcharts]
+X=430
+Y=408
+
+[Box: ::Default - ::Default::JList_soft]
+X=840
+Y=408
+
+[Box: ::Default - ::Default::Polarity_calculator]
+X=2371
+Y=40
+
+[Box: ::Default - ::Default::ppi_intact]
+X=225
+Y=408
+
+[Box: ::Default - ::Default::ppi_MINT]
+X=2166
+Y=40
+
+[Box: ::Default - ::Default::properties_protein]
+X=20
+Y=408
+
+[Box: ::Default - ::Default::Protein]
+X=2576
+Y=40
+
+[Box: ::Default - ::Default::PsicquicSimpleClient]
+X=1961
+Y=40
+
+[Box: ::Default - ::Default::XYplot]
+X=1756
+Y=40
+
+[Diagram: ::Default]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
